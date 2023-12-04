@@ -1,5 +1,13 @@
 # Maze Game written in C++ using ncurses
 
+## Demo
+
+
+
+https://github.com/zoumas/ncurses-games/assets/132769996/ff3ecdb1-aa55-4797-96cf-5bbcce233643
+
+
+
 ## Subject of the Work
 
 This work was the final assignment for the Object Oriented Programming with C++ course in University.
