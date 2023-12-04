@@ -2,8 +2,7 @@
 
 ## Demo
 
-![Video Demo](https://github.com/zoumas/ncurses-games/snake/assets/demo.mp4)
-
+https://github.com/zoumas/ncurses-games/assets/132769996/74c0a769-41db-4606-a5d5-11f35443ad5e
 
 ## About
 A quick implementation of snake to get used to ncurses
