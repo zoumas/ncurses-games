@@ -2,10 +2,10 @@
 
 #include <iostream>
 
-#define BOARD_ROWS 15
+#define BOARD_ROWS 8
 #define BOARD_COLS BOARD_ROWS * 2.5
 
-#define SPEED 150
+#define SPEED 230
 
 void initialize_ncurses();
 void terminate_ncurses();
